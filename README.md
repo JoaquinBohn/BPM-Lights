@@ -10,3 +10,5 @@ Las opciones son las siguientes: - Flash! intercambia entre blanco y negro.
                                  - Random entre una gran variedad de colores generados aleatoriamente.
 
 - Version con Gifs: al igual que el Simple se ingresan los BPM, y en este caso se intercambian de manera aleatoria un grupo de imagenes .gif. El botón Stop! cumple con la misma función.
+
+El archivo CSS de estilos le pertenece a john-smilga.
